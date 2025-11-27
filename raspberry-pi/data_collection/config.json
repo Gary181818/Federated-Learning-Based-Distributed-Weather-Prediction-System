@@ -1,0 +1,5 @@
+{
+    "SERIAL_PORT": "",
+    "BAUD_RATE": 9600,
+    "CSV_FILE": "dataset.csv"
+}
